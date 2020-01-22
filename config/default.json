@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:admin@socialnetwork-xzvox.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecret"
+}
