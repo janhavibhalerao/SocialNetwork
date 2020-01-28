@@ -20,7 +20,7 @@ const Register = () => {
     } else {
       console.log('sucess');
     }
-  };
+  };    
 
   return (
     <Fragment>
